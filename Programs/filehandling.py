@@ -7,7 +7,7 @@
 #         count += len(a)
 #     print(count)
 ########################################################################################################################
-# COUNT THE NUMBER OF LINES PRESENT IN A FILE
+# COUNT THE NUMBER OF LINES PRESENT IN A FILEe
 
 # f_path = r"C:\Users\hp\PycharmProjects\Python_Practice\files\samp.txt"
 # with open(f_path) as f:
